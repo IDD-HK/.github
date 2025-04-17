@@ -60,8 +60,7 @@ All code and data in this repository are confidential and protected under compan
 
 For questions or support, please reach out via internal communication channels or contact:
 
-- **IT & Development Lead:** [email@example.com]
-- **Product Manager:** [email@example.com]
+- **IT & Development Lead:** [it@globber.com]
 
 ---
 
